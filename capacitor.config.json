@@ -1,0 +1,6 @@
+{
+  "appId": "com.cipworkbook.app",
+  "appName": "ورک‌بوک CIP",
+  "webDir": "www",
+  "android": { "allowMixedContent": false }
+}
